@@ -1,6 +1,5 @@
 # SIEM-in-Python
 
-# Python SIEM
 
 Educational **Security Information and Event Management (SIEM)** developed in Python for collecting, processing, storing, correlating and detecting security events.
 
